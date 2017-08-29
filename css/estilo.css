@@ -1,0 +1,28 @@
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 700%;
+}
+
+.colort {
+  color: #26A69A;
+}
+  .colorn{
+    color: #C7A326;
+  }
+
+  .Bitmap {
+    width: 977px;
+    height: 135px;
+  }
+
+  .anchotarjetainicio{
+    width: 400px;
+  }
+
+  .anchobotonesti{
+    width: 23%;
+  }
+
+  .anchologo{
+    width: 30%;
+  }
